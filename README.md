@@ -1,2 +1,1 @@
 # colegio
-hola putos
