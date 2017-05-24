@@ -28,7 +28,7 @@ namespace Colegio
             SqlDataReader leer = comando.ExecuteReader();
             if (leer.Read() == true)
             {
-                Label1.Text = leer["mision"].ToString();
+                Label1.Text = leer["micion"].ToString();
 
             }
             con.Close();
